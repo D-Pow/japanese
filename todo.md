@@ -20,3 +20,6 @@ hisashiburi da na... socchi kosso dou nanda
 真っ (using sokuon - small tsu) - Totally/pure/completely, e.g. 真っ白 (pure white) or 真っ暗 (total darkness/pitch black) or 頭が真っ白 (my mind went totally blank)
 壊れる (kotowaru) - to break
 怖る (kowaru) - to fear
+I want to hold hands
+    手を握り合いたい
+    手を繋げたい
